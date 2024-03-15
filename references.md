@@ -23,3 +23,12 @@ Format
 --Analysis
 --Conclusion and Results
 --References
+
+
+https://ieeexplore.ieee.org/document/9117346
+abstract;
+
+The idea of a wireless sensor network in agriculture gained traction all over the world to assist farmers in raising crop development and productivity levels through constant monitoring. However, because it can be challenging to locate a power source, the setting of farms makes it difficult to implement IoT. Farmers can encounter challenges tracking their plants due to varying environmental conditions.
+Thus, the goal of this effort is to develop a system that uses LoRaWAN technology to assist farmers in remotely tracking their crops. The system's key characteristics that make it appropriate for a farming context are its extremely low power consumption and wide signal coverage area. Additionally, the sensors assist in providing farmers with vital information. The first step in the process was deciding which suitable and reasonably priced sensors to use. 
+
+
