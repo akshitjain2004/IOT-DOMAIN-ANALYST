@@ -15,11 +15,11 @@ https://www.ijraset.com/research-paper/smart-farming-and-crop-monitoring-technol
 
 
 Format
--- Summary
--- Intro
--- Literature Review
--- Methodology
--- Study
--- Analysis
--- Conclusion and Results
--- References
+--Summary
+--Intro
+--Literature Review
+--Methodology
+--Study
+--Analysis
+--Conclusion and Results
+--References
