@@ -26,6 +26,9 @@ Format
 
 
 https://ieeexplore.ieee.org/document/9117346
+
+https://www.mdpi.com/2071-1050/14/2/827
+
 abstract;
 
 The idea of a wireless sensor network in agriculture gained traction all over the world to assist farmers in raising crop development and productivity levels through constant monitoring. However, because it can be challenging to locate a power source, the setting of farms makes it difficult to implement IoT. Farmers can encounter challenges tracking their plants due to varying environmental conditions.
