@@ -13,6 +13,18 @@ https://www.irjet.net/archives/V4/i7/IRJET-V4I7115.pdf
 A Smart Farming and “Crop Monitoring Technology” in Agriculture Using IOT
 https://www.ijraset.com/research-paper/smart-farming-and-crop-monitoring-technology-in-agriculture-using-iot
 
+How crop monitpring works?
+https://geopard.tech/blog/smart-crop-monitoring-system-how-does-it-work/
+
+Lorawan
+https://www.linkedin.com/pulse/lorawan-agriculture-more-precision-farming-smart-crop-management-5ycpe/
+
+Drones
+https://www.jouav.com/blog/agriculture-drone.html#:~:text=Drones%20provide%20an%20unparalleled%20vantage,pest%20infestations%2C%20or%20crop%20diseases.
+
+Embedded Systems
+https://www.irjet.net/archives/V4/i7/IRJET-V4I7115.pdf
+
 
 Format
 #Summary
